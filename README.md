@@ -1,0 +1,2 @@
+# Starbucks-layout-website
+This website was created exclusively as a training project focused on adaptive layout development. The layout was built using modern CSS tools such as Grid and Flex. Also for responsive behaviour the project includes clamp() technique used for font-sizes and components' width. The design includes several UX and visual elements, such as animated borders, wave effects on image backgrounds, and other decorative interactions. 
